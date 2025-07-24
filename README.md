@@ -15,7 +15,7 @@
 
 <p align="center">
  Desarrolador FulStack con más de 1 año de experiencia construyendo soluciones web y
- móviles con React, Next.js, Firebase, ASP.NET y Flutter. Experiencia en desarrolo frontend
+ móviles con React, Next.js, Firebase, ASP.NET y Flutter. Experiencia en desarrollo frontend
  con Tailwind y backend serverless con Firebase. He creado interfaces modernas, APIs
  seguras y aplicaciones móviles funcionales. Me adapto con rapidez y trabajo con
  metodologías ágiles centradas en la entrega de valor.

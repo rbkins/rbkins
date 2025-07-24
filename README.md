@@ -140,29 +140,15 @@ Desarrollo con React, Next.js, Tailwind CSS y Firebase. Gestión ágil con Notio
 
 <div align="center">
   
-## 🎓 Educación y Certificaciones
-
-</div>
-
-<div align="center">
-  
-**🎓 Técnico en Ingeniería de Desarrollo de Software** - ITCA | *2023 - 2024*
-  
-**🔐 Gestión de Amenazas Cibernéticas** - Cisco Networking Academy | *2024*
-  
-**🛡️ Introducción a la Ciberseguridad** - Cisco Networking Academy | *2024*
-  
-</div>
 
 <br>
 
 ---
 
 <div align="center">
+   🎓 Educación: Técnico en Ingeniería de Desarrollo de Software - ITCA
   
-**💼 Actualmente:** Desarrollador FullStack Freelance | **🎓 Educación:** Técnico en Ingeniería de Desarrollo de Software - ITCA
-  
-**📧 Contacto:** maganaperazadaniel@gmail.com | **📱 Tel:** +503 7752-6424 | **📍 Ubicación:** Santa Ana, El Salvador
+**📧 Contacto:** maganaperazadaniel@gmail.com | **📍 Ubicación:** Santa Ana, El Salvador
   
 </div>
 
